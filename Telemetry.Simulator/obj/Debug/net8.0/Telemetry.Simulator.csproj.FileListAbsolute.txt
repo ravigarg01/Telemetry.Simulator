@@ -1,0 +1,14 @@
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/bin/Debug/net8.0/Telemetry.Simulator
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/bin/Debug/net8.0/Telemetry.Simulator.deps.json
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/bin/Debug/net8.0/Telemetry.Simulator.runtimeconfig.json
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/bin/Debug/net8.0/Telemetry.Simulator.dll
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/bin/Debug/net8.0/Telemetry.Simulator.pdb
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.AssemblyInfoInputs.cache
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.AssemblyInfo.cs
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.csproj.CoreCompileInputs.cache
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.dll
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/refint/Telemetry.Simulator.dll
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.pdb
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/Telemetry.Simulator.genruntimeconfig.cache
+/Users/ravigarg/Documents/GitHub/Telemetry.Simulator/Telemetry.Simulator/obj/Debug/net8.0/ref/Telemetry.Simulator.dll
